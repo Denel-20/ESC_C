@@ -16,7 +16,6 @@ int main() {
     printf("a: %d   b: %d", *A, *B);
 
     swap(A, B);
-    printf("\n###############\n");
     
     printf("a: %d   b: %d", *A, *B);
 
